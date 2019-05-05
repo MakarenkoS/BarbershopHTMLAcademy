@@ -97,8 +97,9 @@ body {
 /*main-nav*/
 .main-nav {
   position: relative;
-  width: 320px;
-  margin: 0 auto;
+  /*Резиновая верстка*/
+  /*width: 320px;
+	margin: 0 auto;*/
   min-height: 51px;
   background-color: #826550;
 }
